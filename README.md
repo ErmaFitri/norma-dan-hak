@@ -1,0 +1,2 @@
+# norma-dan-hak
+MPI
